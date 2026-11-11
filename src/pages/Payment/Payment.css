@@ -1,0 +1,92 @@
+.payment {
+  padding: 50px 60px;
+  background-color: #f5f5f5;
+  min-height: 100vh;
+}
+
+.payment h1 {
+  margin-bottom: 30px;
+}
+
+.payment-card {
+  width: 500px;
+  max-width: 100%;
+  padding: 30px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
+}
+
+.payment-card h2 {
+  margin-bottom: 25px;
+  font-size: 24px;
+}
+.payment-card button {
+  display: block;
+  width: 100%;
+  padding: 13px;
+  margin: 12px 0;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background-color: white;
+  cursor: pointer;
+  font-size: 15px;
+  transition: 0.3s;
+}
+
+.payment-card button:hover {
+  border-color: #222;
+  background-color: #f5f5f5;
+}
+
+.payment-card h3 {
+  margin-top: 25px;
+  font-size: 20px;
+}
+
+.payment-card .pay-btn {
+  margin-top: 25px;
+  background-color: #111;
+  color: white;
+  font-weight: bold;
+}
+
+.payment-card .pay-btn:hover {
+  background-color: #333;
+}
+
+.payment-card .payment-selected {
+  background-color: #111;
+  color: white;
+  border-color: #111;
+}
+
+@media (max-width: 768px) {
+
+  .booking-summary {
+    padding: 35px 20px;
+  }
+
+  .booking-summary h1 {
+    font-size: 28px;
+  }
+
+  .summary-card {
+    width: 100%;
+    max-width: 500px;
+    padding: 25px;
+  }
+
+  .summary-card h2 {
+    font-size: 22px;
+  }
+
+  .summary-card p {
+    font-size: 15px;
+  }
+
+  .summary-card button {
+    width: 100%;
+  }
+
+}

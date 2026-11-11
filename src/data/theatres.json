@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "PVR: Nexus Mall",
+    "location": "Kukatpally"
+  },
+  {
+    "id": 2,
+    "name": "INOX: GVK One",
+    "location": "Banjara Hills"
+  },
+  {
+    "id": 3,
+    "name": "AMB Cinemas",
+    "location": "Gachibowli"
+  },
+  {
+    "id": 4,
+    "name": "Cinepolis: Mantra Mall",
+    "location": "Attapur"
+  }
+]

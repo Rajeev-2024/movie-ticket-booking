@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "theatreId": 1,
+    "times": ["10:00 AM", "1:30 PM", "6:00 PM", "9:30 PM"]
+  },
+  {
+    "id": 2,
+    "theatreId": 2,
+    "times": ["11:00 AM", "2:30 PM", "6:30 PM", "10:00 PM"]
+  },
+  {
+    "id": 3,
+    "theatreId": 3,
+    "times": ["9:30 AM", "12:45 PM", "4:30 PM", "8:00 PM"]
+  },
+  {
+    "id": 4,
+    "theatreId": 4,
+    "times": ["10:30 AM", "2:00 PM", "5:30 PM", "9:00 PM"]
+  }
+]
