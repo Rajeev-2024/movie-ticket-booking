@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import Home from "./pages/Home/Home";
 import MovieDetails from "./pages/MovieDetails/MovieDetails";
@@ -11,7 +11,7 @@ import BookingConfirmation from "./pages/BookingConfirmation/BookingConfirmation
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Navbar />
 
       <Routes>
@@ -30,7 +30,7 @@ const App = () => {
           element={<BookingConfirmation />}
         />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
