@@ -96,7 +96,9 @@ The app is deployed to GitHub Pages with the `gh-pages` package. `vite.config.js
 
 ## Screenshots
 
-Add screenshots of the home page, seat selection and booking confirmation here.
+![Home page](screenshots/home.png)
+![Seat selection](screenshots/seats.png)
+![Booking confirmation](screenshots/confirmation.png)
 
 ## Author
 
